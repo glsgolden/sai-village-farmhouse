@@ -9,6 +9,7 @@
 # Next.js Build and Cache
 /.next/
 /out/
+/dist/
 
 # Production Build
 /build
